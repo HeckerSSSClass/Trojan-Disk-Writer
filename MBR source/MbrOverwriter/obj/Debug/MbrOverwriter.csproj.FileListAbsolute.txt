@@ -1,0 +1,6 @@
+C:\Users\Flopp\OneDrive\Рабочий стол\MbrOverwriter\MbrOverwriter\bin\Debug\MbrOverwriter.exe
+C:\Users\Flopp\OneDrive\Рабочий стол\MbrOverwriter\MbrOverwriter\obj\Debug\MbrOverwriter.csproj.AssemblyReference.cache
+C:\Users\Flopp\OneDrive\Рабочий стол\MbrOverwriter\MbrOverwriter\obj\Debug\MbrOverwriter.csproj.CoreCompileInputs.cache
+C:\Users\Flopp\OneDrive\Рабочий стол\MbrOverwriter\MbrOverwriter\obj\Debug\MbrOverwriter.exe
+C:\Users\Flopp\OneDrive\Рабочий стол\MbrOverwriter\MbrOverwriter\obj\Debug\MbrOverwriter.pdb
+C:\Users\Flopp\OneDrive\Рабочий стол\MbrOverwriter\MbrOverwriter\bin\Debug\MbrOverwriter.pdb
